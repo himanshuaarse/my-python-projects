@@ -1,2 +1,2 @@
-# PRODIGI__ML__01
-Task 1: Implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms
+# PRODIGI_ML_02
+Task 2: Create a K means clustering algorithm to group customers of a retail store based on their purchase history
