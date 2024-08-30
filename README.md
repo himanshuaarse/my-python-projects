@@ -1,2 +1,2 @@
-# PRODIGI_ML_02
-Task 2: Create a K means clustering algorithm to group customers of a retail store based on their purchase history
+# PRODIGI_ML_03
+Task 3 Implement a support vector machine (SVM) to classify images of cats and dogs from the Kaggle dataset.
